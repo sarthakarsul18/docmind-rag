@@ -11,3 +11,4 @@ python-dotenv
 requests
 langchain_groq
 pypdf
+torchvision
