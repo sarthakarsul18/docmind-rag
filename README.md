@@ -94,13 +94,6 @@ No more `Ctrl+F`. No more skimming 40 pages for one paragraph.
 | 📄 **Sources panel** | Collapsible, sits under every answer, shows the exact page used |
 | ✨ **Empty state** | Suggested example questions appear as one-click chips |
 | 🏷️ **Hero badge** | A "RAG-Powered · Groq Llama 4 Scout" pill under the title |
-
-> 📸 **Add a real screenshot or GIF** once you have one (e.g. save it as `docs/demo.gif`) and drop this line right here:
->
-> ```markdown
-> ![DocMind chat interface answering a question with cited sources](docs/demo.gif)
-> ```
-
 ---
 
 ## 🏗️ Architecture <a name="architecture"></a>
