@@ -31,7 +31,7 @@ load_dotenv()
 # Config
 # ---------------------------------------------------------------------------
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-GROQ_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
+GROQ_MODEL = "openai/gpt-oss-120b"
 VECTOR_DB_ROOT = "faiss_db"
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 200
