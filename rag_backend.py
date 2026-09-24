@@ -7,7 +7,7 @@ Responsibilities:
  - Load & chunk a PDF
  - Build / cache a FAISS vector index (on-disk, keyed by file hash so the
    same PDF is never re-embedded twice)
- - Build a retrieval chain powered by Groq (Llama 4 Scout)
+ - Build a retrieval chain powered by Groq (openai/gpt-oss-120b)
  - Expose a streaming generator so the UI can show a live "typing" effect
 
 """
