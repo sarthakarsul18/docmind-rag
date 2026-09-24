@@ -371,7 +371,7 @@ with st.sidebar:
         f"""<div class="builder-card">
                 <div class="builder-line"></div>
                 <p class="builder-text">✨ Crafted by <span class="builder-name">{html_lib.escape(BUILDER_NAME)}</span></p>
-                <p class="builder-tag">⚡ Groq · Llama 4 Scout &nbsp;|&nbsp; 🧬 FAISS + MiniLM</p>
+                <p class="builder-tag">⚡ Groq · openai/gpt-oss-120b &nbsp;|&nbsp; 🧬 FAISS + MiniLM</p>
             </div>""",
         unsafe_allow_html=True,
     )
@@ -384,7 +384,7 @@ st.markdown(
     <div class="header-wrap">
         <h1 class="app-title">DocMind</h1>
         <p class="app-subtitle">Ask anything. Get answers straight from your PDF.</p>
-        <span class="hero-pill">⚡ RAG-Powered · Groq Llama 4 Scout</span>
+        <span class="hero-pill">⚡ RAG-Powered · Groq openai/gpt-oss-120b </span>
     </div>
     """,
     unsafe_allow_html=True,
